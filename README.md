@@ -5,6 +5,9 @@ Projet 11 - Développez une application Web avec React et React Router
 ### Fonction
 Développeur Front-end
 
+# Important
+Use NodeJS 16.x
+
 ### Maquette
 - [Maquette](https://www.figma.com/file/bAnXDNqRKCRRP8mY2gcb5p/UI-Design-Kasa-FR?node-id=4%3A1)
 
